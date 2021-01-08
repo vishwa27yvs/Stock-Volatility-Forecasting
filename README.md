@@ -10,7 +10,8 @@ Contains code for
 4) Padding audio and text feature input
 5) Computing volatility from closing prices
 
-# models.py : Contains the pipeline for the prediction. 
-1)Text encoder
+# models.py : 
+Contains the pipeline for the prediction. 
+1) Text encoder
 2) Audio Encoder 
 3) Fusing and combining with past volatility values
