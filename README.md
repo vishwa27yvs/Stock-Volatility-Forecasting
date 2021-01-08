@@ -15,3 +15,6 @@ Contains the pipeline for the prediction.
 1) Text encoder
 2) Audio Encoder 
 3) Fusing and combining with past volatility values
+
+# stock-volatility-pred.ipynb:
+Combined code along with output
